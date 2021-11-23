@@ -11,7 +11,7 @@ third-party library that will help your solution showcase your skills, however k
 
 
 ## Problem statement
-We ask you to create a small React application that follows the specifications defined in this [design specification](instructions.pdf).
+We ask you to create a small React application that follows the specifications defined in this [design specification](instructions/instructions.md).
 
 We ask you to maintain a clean and structured git log.
 
