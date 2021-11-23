@@ -8,7 +8,7 @@ The test can be found at https://github.com/clio-me/react-test you can either do
 
 
 ## Exercise steps
-1. Notice that under app/public you can find a file called get.json. Build a context or a container which “fetch” this file.
+1. Notice that under app/public you can find a file called get.json. Fetch and use the data on that json file to build your implementation.
 
 2. Build a small menu with two entries: “Home” and “Bookmarks”. These two entries should give access to two different pages and the user should be able to switch between the two by clicking on the menu. (ref 1 in the design)
 
