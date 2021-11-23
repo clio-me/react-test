@@ -1,6 +1,4 @@
 # Clio's "Bookmarked Movies" Frontend Test
-We expect this task to take approximately 3 hours to finish up, and we expect you to deliver a solution within 3 days. 
-Please let us know that you require more time if this does not fit with your schedule.
 
 ## Purpose 
 This problem will be used to showcase your understanding of React, Frontend Architecture, State management, general 
@@ -19,15 +17,16 @@ The application created should contain a README.md file that clearly states how 
 You can also utilise the README.md to discuss what you would have liked to implement if more time had been available.
 
 ## Delivery
-You can either fork/create a repository and create a (preferably) private repository and your point of contact will 
-send you an email you can add as collaborator for review purpose. 
+We expect you to deliver a solution within 3 days. 
+Please let us know that you require more time if this does not fit with your schedule.
 
-Another option is to fork this repo and create a PR.
+You can either fork or create a (preferably) private repository and your point of contact will 
+send you a list of emails you can add as collaborators for review purpose.s
 
 We ask you to not keep your solution public longer than strictly necessary for this review process.
 
 ## Thank you!
-Thanks for showing your in interest in Clio and committing your valuable time! We will strive to give developer 
+Thank you for your interest in Clio and committing your valuable time! We will strive to give developer 
 feedback within two days.
 
 Clio
