@@ -1,7 +1,6 @@
 ![Clio logo](logo.png)
 
 Welcome to the Clio React test. The following test contains a small design that you can use for reference and multiple steps that you will illustrate what to do. You can work on each step in the order that you prefer.
-The test can be found at https://github.com/clio-me/react-test you can either download the folder or fork the project :)
 
 ## Reference design
 ![Design](design.png)
